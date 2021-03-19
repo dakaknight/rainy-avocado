@@ -26,6 +26,7 @@ params:
         url: /signup
         style: primary
         has_icon: false
+        icon: arrow-right
   footer:
     type: footer
     sections:
