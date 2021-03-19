@@ -27,6 +27,7 @@ params:
         style: primary
         has_icon: true
         icon: arrow-right
+        icon_position: right
   footer:
     type: footer
     sections:
