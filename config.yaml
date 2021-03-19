@@ -14,7 +14,7 @@ params:
         url: /
         style: link
       - type: action
-        label: Features
+        label: Artists
         url: /features
         style: link
       - type: action
